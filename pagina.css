@@ -1,0 +1,9 @@
+.piePagina{
+    display: flex;
+    margin-top: 0%;
+    justify-content: space-around;
+    background-color: black;
+    border-radius: 5px;
+    color: gainsboro;
+    
+}
